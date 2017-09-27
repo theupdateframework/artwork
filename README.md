@@ -1,2 +1,3 @@
-# artwork
-Notary Logo and Artwork
+# Notary Logo and Artwork
+
+![Notary logo](notary-blk%402x.png)
